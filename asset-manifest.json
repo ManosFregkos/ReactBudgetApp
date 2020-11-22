@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-budget-app/static/css/main.571e6405.chunk.css",
-    "main.js": "/react-budget-app/static/js/main.01c8f184.chunk.js",
-    "main.js.map": "/react-budget-app/static/js/main.01c8f184.chunk.js.map",
-    "runtime-main.js": "/react-budget-app/static/js/runtime-main.cdb52ff9.js",
-    "runtime-main.js.map": "/react-budget-app/static/js/runtime-main.cdb52ff9.js.map",
-    "static/js/2.b190f742.chunk.js": "/react-budget-app/static/js/2.b190f742.chunk.js",
-    "static/js/2.b190f742.chunk.js.map": "/react-budget-app/static/js/2.b190f742.chunk.js.map",
-    "index.html": "/react-budget-app/index.html",
-    "precache-manifest.85056db9c0ceb637bc649038419ad137.js": "/react-budget-app/precache-manifest.85056db9c0ceb637bc649038419ad137.js",
-    "service-worker.js": "/react-budget-app/service-worker.js",
-    "static/css/main.571e6405.chunk.css.map": "/react-budget-app/static/css/main.571e6405.chunk.css.map",
-    "static/js/2.b190f742.chunk.js.LICENSE.txt": "/react-budget-app/static/js/2.b190f742.chunk.js.LICENSE.txt"
+    "main.css": "/ReactBudgetApp/static/css/main.571e6405.chunk.css",
+    "main.js": "/ReactBudgetApp/static/js/main.01c8f184.chunk.js",
+    "main.js.map": "/ReactBudgetApp/static/js/main.01c8f184.chunk.js.map",
+    "runtime-main.js": "/ReactBudgetApp/static/js/runtime-main.0215fbe5.js",
+    "runtime-main.js.map": "/ReactBudgetApp/static/js/runtime-main.0215fbe5.js.map",
+    "static/js/2.b190f742.chunk.js": "/ReactBudgetApp/static/js/2.b190f742.chunk.js",
+    "static/js/2.b190f742.chunk.js.map": "/ReactBudgetApp/static/js/2.b190f742.chunk.js.map",
+    "index.html": "/ReactBudgetApp/index.html",
+    "precache-manifest.20fceda14830c2e0aedeef96a535329a.js": "/ReactBudgetApp/precache-manifest.20fceda14830c2e0aedeef96a535329a.js",
+    "service-worker.js": "/ReactBudgetApp/service-worker.js",
+    "static/css/main.571e6405.chunk.css.map": "/ReactBudgetApp/static/css/main.571e6405.chunk.css.map",
+    "static/js/2.b190f742.chunk.js.LICENSE.txt": "/ReactBudgetApp/static/js/2.b190f742.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdb52ff9.js",
+    "static/js/runtime-main.0215fbe5.js",
     "static/js/2.b190f742.chunk.js",
     "static/css/main.571e6405.chunk.css",
     "static/js/main.01c8f184.chunk.js"
